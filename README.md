@@ -169,3 +169,4 @@ Even **DNA computing** could join the mix later.
 | 8 | Amorphous hybrid computing | Mixed model architectures + mixed chip computing        |
 
 ---
+more: https://chatgpt.com/share/694bdbb5-2634-8007-8e8a-3915f0781b77 
